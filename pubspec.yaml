@@ -1,7 +1,8 @@
 name: getx_binding_scope
 description: "Scoped dependency injection for GetX — automatic cleanup, async safety, and nested bindings made easy"
 version: 1.0.0
-homepage:
+homepage: https://github.com/k2evil/getx_binding_scope
+repository: https://github.com/k2evil/getx_binding_scope
 
 environment:
   sdk: ^3.9.0
